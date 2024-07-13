@@ -1,0 +1,11 @@
+git init                -- Inicia o git
+git add .               -- adiciona todos os arquivos de uma só vez
+git commit -m "msg"     -- registra as mudanças
+git status              -- mostra os arquivos modificados
+git log                 -- mostra os commits
+git remote              -- faz o repositório local
+git push -u origin main -- envia para repositório remoto
+git pull origin main    -- baixa os arquivos do repositório remoto
+git revert              -- reverte um commit
+git commit -- amend - m -- edita o commit
+.gitignore arquivo      -- ignora oque deseja
